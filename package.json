@@ -14,10 +14,12 @@
     "easing"
   ],
   "author": "Etermax",
-  "contributors":{
-    "name": "Matias Goitea",
-    "email": "matiasjgoitea@gmail.com"
-  },
+  "contributors": [
+    {
+      "name": "Matias Goitea",
+      "email": "matiasjgoitea@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/matiasjgoitea/easing/issues"
