@@ -1,0 +1,26 @@
+{
+  "name": "easing",
+  "version": "0.0.1",
+  "description": "Various fast approximations and alternates to cubic-bezier easing functions.",
+  "main": "easing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasjgoitea/easing.git"
+  },
+  "keywords": [
+    "easing"
+  ],
+  "author": "Etermax",
+  "contributors":{
+    "name": "Matias Goitea",
+    "email": "matiasjgoitea@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matiasjgoitea/easing/issues"
+  },
+  "homepage": "https://github.com/matiasjgoitea/easing#readme"
+}
